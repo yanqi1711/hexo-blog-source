@@ -119,6 +119,14 @@ aplayer:
 meting: true
 asset_inject: false
 
+swpp:
+  enable: true
+  sw:
+    onerror: "{console.error('注册 sw 时发生错误，很可能是由于您的浏览器不支持 sw')}"
+    onsuccess: "location.reload()"
+  dom:
+    onsuccess: "console.log('更新成功')" # 若 custom 为 false 则该项必填
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
