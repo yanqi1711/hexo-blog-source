@@ -1,0 +1,123 @@
+- class_name: 天才
+  class_desc: 可爱捏
+  link_list:
+    - name: 被雪天困住的大孩子
+      link: http://jkstudio.top:82/
+      avatar: https://npm.elemecdn.com/yanqi1711-picx/20220423/%E5%9B%B0.7cnl8xohpf00.webp
+      descr: 日が落ちるまで
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/jack.webp
+    - name: HEO|洪哥
+      link: https://blog.zhheo.com/
+      avatar: https://npm.elemecdn.com/guli-heo/action/guli-action-find.gif
+      descr: 爱折腾的设计师
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/507.webp
+    - name: しゅふがく|小冰
+      link: https://zfe.space/
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/516.webp
+    - name: Akilarの糖果屋|店长
+      link: https://akilar.top/
+      avatar: https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png
+      descr: 期待你的光临！
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/504.webp
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: A Simple and Card UI Design theme for Hexo
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/519.webp
+    - name: Jerry
+      link: https://crazywong.com/
+      avatar: https://crazywong.com/pwa/favicon.ico
+      descr: 熱衷學習，熱衷生活
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/515.webp
+    - name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.jsdelivr.net/npm/kang-static@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/521.webp
+    - name: 小曦同桌
+      link: https://www.sakuracio.com/
+      avatar: https://share.sakuracio.com/avatar.jpg
+      descr: 要努力啊，为了人间的烟火。
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/520.webp
+    - name: 杏铃の小本
+      link: https://xn--8qvt52h.top/
+      avatar: https://gravatar.loli.net/avatar/727965d9a6b007642677e90230104cbd?s=200&r=X&d=
+      descr: 一份分享教程,游戏的礼物✧(≖ ◡ ≖✿)
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/509.webp
+    - name: Gahotx
+      link: https://gahotx.cn/
+      avatar: https://pub.gahotx.cn/photo/cat.jpg
+      descr: Don't repeat yourself
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/505.webp
+    - name: Sianx's Blog
+      link: https://sianx.com
+      avatar: https://cdn1.tianli0.top/npm/picture-sianx@1.0.0/Blog/logo.png
+      descr: 总之岁月漫长, 然而值得等待。
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/510.webp
+    - name: 陈YF的博客
+      link: https://blog.cyfan.top
+      avatar: https://npm.elemecdn.com/chenyfan-oss@3
+      descr: 一个在互联网角落挣扎的小小博客，很小很小
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/506.webp
+    - name: 梦璃雨落
+      link: https://blog.dreamfall.cn/
+      avatar: https://npm.elemecdn.com/yanqi1711-picx/img/meng.webp
+      descr: 一个以教程为主的技术类个人博客，欢迎来我的小屋作伴～
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/530.webp
+    - name: 山岳库博
+      link: https://kmar.top/
+      avatar: https://kmar.top/avatar.jpg
+      descr: 开发学习启发性二刺螈
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/518.webp
+    - name: Tianli
+      link: https://tianli-blog.club
+      avatar: https://img1.tianli0.top/logo.png
+      descr: 惟其不可能，所以才相信。
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/502.webp
+    - name: DORAKIKA
+      link: https://dorakika.cn
+      avatar: https://dorakika.cn/img/favicon.jpg
+      descr: 热爱漫无边际，生活自有分寸
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/511.webp
+    - name: 贰猹的小窝
+      link: https://noionion.top/
+      avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+      descr: 用这生命中的每一秒，给自己一个不后悔的未来
+      siteshot: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/noionion.top.png
+    - name: Android
+      link: https://android99.me
+      avatar: https://android99.me/img/avatar.png
+      descr: 矩阵
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/514.webp
+    - name: iMaeGoo
+      link: https://www.imaegoo.com/
+      avatar: https://www.imaegoo.com/images/avatar.jpg
+      descr: 虹墨空间站
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/524.webp
+    - name: 花裱の博客
+      link:  https://dingzihang00.top
+      avatar: https://npm.elemecdn.com/ding-blogdemo@1.0.4/img/Favicon.png
+      descr: 为之则易，不为则难
+      siteshot: https://npm.elemecdn.com/ding-blogdemo@1.0.2/img/siteImg.jpg
+    - name: MJ's Blog
+      link: https://blog.justlovesmile.top
+      avatar: https://npm.elemecdn.com/justlovesmile-img/logo.jpg
+      descr: 醒亦念卿，梦亦念卿
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/517.webp
+    - name: 雾时之森
+      link: https://fairysen.com
+      avatar: https://sdn.geekzu.org/avatar/222f6efd128063e196b82d6fb9b10452
+      descr: 一个爱折腾爱作死的人建立的无名小站
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/523.webp
+    - name: 星空下的YZY
+      link: https://226yzy.com
+      avatar: https://226yzy.com/medias/avatar.jpg
+      descr: 记录一枚菜鸟的征程
+      siteshot: https://npm.elemecdn.com/yanqi1711-picx/img/501.webp
+    - name: Black Flies
+      link: https://yyyzyyyz.cn/
+      avatar: https://npm.elemecdn.com/imgscdn/img/202111191951780.JPG
+      descr: When nothing goes right,just go left.
+      siteshot: https://npm.elemecdn.com/imgscdn/img/202111191934973.jpg
