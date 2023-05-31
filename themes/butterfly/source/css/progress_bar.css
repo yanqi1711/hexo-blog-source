@@ -48,20 +48,20 @@ background-size: 200%;
 }
 
 .pace.pace-inactive {
-opacity: 0;
-transition: 0.3s;
-top: -8px;
+    opacity: 0;
+    transition: 0.3s;
+    top: -8px;
 }
 @keyframes gradient {
-0% {
-    background-position: 0% 50%;
-}
-50% {
-    background-position: 100% 50%;
-}
-100% {
-    background-position: 0% 50%;
-}
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
 .loading-img {
